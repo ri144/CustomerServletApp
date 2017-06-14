@@ -8,7 +8,6 @@
 </head>
 <body>
 <p>${message}</p>
- 
 <form action="SearchSublet" method = "post">
 <input type="text" name="fullName" id = "fName" value="enter full name to edit"/>
 <input type = "hidden" name = "act" value="fSearch">
